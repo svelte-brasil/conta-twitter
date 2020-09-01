@@ -25,9 +25,9 @@ Um tweet com votação deve ter 2 a 4 opções e precisa estar nesse formato
 
 > Aqui vai algum texto
 >
-> ( ) opção A
-> ( ) opção B
-> ( ) opção C
+> ( ) opção A  
+> ( ) opção B  
+> ( ) opção C  
 > ( ) opção D
 
 ## Observações
