@@ -7,7 +7,7 @@ Esse projeto usa [twitter-together](https://github.com/gr2m/twitter-together) e 
 
 Para criar um novo tweet, crie um arquivo `*.tweet` na pasta `tweets/`.
 
-<kbd>[Create new tweet](https://github.com/svelte-brasil/conta-twitter/new/master/?filename=tweets/<your-path>.tweet)</kbd>
+<kbd>[Criar novo tweet](https://github.com/svelte-brasil/conta-twitter/new/master/?filename=tweets/<nome>.tweet)</kbd>
 
 ## Exemplo
 
