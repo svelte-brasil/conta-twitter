@@ -1,5 +1,5 @@
 # conta-twitter
-Faça um PR para promover algo no perfil do twitter Svelte Brasil!
+Faça um PR para promover algo no perfil do twitter [Svelte Brasil](https://twitter.com/sveltebrasil)!
 
 Esse projeto usa [twitter-together](https://github.com/gr2m/twitter-together) e é um fork desanexado do [twitter-account](https://github.com/svelte-society/twitter-account).
 
